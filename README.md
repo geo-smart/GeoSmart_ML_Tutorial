@@ -2,13 +2,13 @@
 
 # Geosmart Use Case Jupyter Book
 
-[![Deploy](https://github.com/geo-smart/use_case_template/actions/workflows/deploy.yaml/badge.svg)](https://github.com/geo-smart/use_case_template/actions/workflows/deploy.yaml)
-[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://geo-smart.github.io/use_case_template)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-smart/use_case_template/HEAD?urlpath=lab)
+[![Deploy](https://github.com/geo-smart/GeoSmart_ML_Tutorial/actions/workflows/deploy.yaml/badge.svg)](https://github.com/geo-smart/GeoSmart_ML_Tutorial/actions/workflows/deploy.yaml)
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://geo-smart.github.io/GeoSmart_ML_Tutorial)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-smart/GeoSmart_ML_Tutorial/HEAD?urlpath=lab)
 [![GeoSMART Use Case](./book/img/use_case_badge.svg)](https://geo-smart.github.io/usecases)
-![GitHub](https://img.shields.io/github/license/whitelightning450/National-ML-Snow-Prediction-Mod?logo=GitHub&style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/whitelightning450/National-ML-Snow-Prediction-Mod?logo=Jupyter&style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/whitelightning450/National-ML-Snow-Prediction-Mod?logo=Github&style=flat-square)
+![GitHub](https://img.shields.io/github/license/geo-smart/GeoSmart_ML_Tutorial?logo=GitHub&style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/geo-smart/GeoSmart_ML_Tutorial?logo=Jupyter&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/geo-smart/GeoSmart_ML_Tutorial?logo=Github&style=flat-square)
 
 ### Deep Learning national scale 1 km resolution SWE prediction model
 Snow-derived water is a critical hydrological component for characterizing the quantity of water available for domestic, recreation, agriculture, and power generation in the western United States.
